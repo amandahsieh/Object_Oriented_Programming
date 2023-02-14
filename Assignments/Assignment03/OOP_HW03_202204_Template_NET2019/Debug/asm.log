@@ -1,0 +1,110 @@
+﻿cl : 命令列 warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+  textureManager_read.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\textureManager\textureManager_read.cpp(46,12): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+  textureManager.cpp
+  texture.cpp
+  paintingSystemApp_HandleEvents.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_draw.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystem.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  lattice_manager.cpp
+  freeCanvas2D.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGameApp.cpp
+  painter.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGame.cpp
+  BG_grid2D.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  imageReader.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\imageReader\imageReader.cpp(85,12): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 2 的類型為 'ILstring'
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\imageReader\imageReader.cpp(85,12): message : 請考慮在格式字串中使用 '%ls'
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\imageReader\imageReader.cpp(85,12): message : 請考慮在格式字串中使用 '%lls'
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\imageReader\imageReader.cpp(85,12): message : 請考慮在格式字串中使用 '%Ls'
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\imageReader\imageReader.cpp(85,12): message : 請考慮在格式字串中使用 '%ws'
+  fileReader.cpp
+  vector3d.cpp
+  provider.cpp
+  grid2D.cpp
+  basic_tools.cpp
+  openGLapp_update.cpp
+  正在產生程式碼...
+  正在編譯...
+  openGLapp_init.cpp
+  openGLapp_draw.cpp
+  openGLapp.events.cpp
+  openGLapp.cpp
+  painter_draw.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  opengl_stuff.cpp
+  camera.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\openGLbasic\camera.cpp(57,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystemApp_HandleEvents.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(76,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(75,12): warning C4101: 'area': 未參考的區域變數
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(103,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(102,12): warning C4101: 'area': 未參考的區域變數
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(121,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(120,12): warning C4101: 'area': 未參考的區域變數
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(189,45): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(195,31): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(200,45): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(207,31): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(212,45): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(225,47): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  mySystemApp_draw.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(103,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(103,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(108,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(108,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  mySystemApp.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(68,39): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(71,30): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  main.cpp
+  basic_app.cpp
+  mySystem_ImageEditor_draw.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,25): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(53,28): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  mySystem_ImageEditor.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(35,22): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_GraphSystem_draw.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(21,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(44,52): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(60,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(58,17): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(74,9): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(72,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_GraphSystem.cpp
+  mySystem_2048_draw.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(70,35): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(95,43): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(205,73): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(205,33): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,43): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,34): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,25): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(251,31): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  mySystem_2048.cpp
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048.cpp(226,31): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048.cpp(238,31): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048.cpp(250,31): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  myBasicTools.cpp
+  正在產生程式碼...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\Debug\SelfMotivatedSystem.exe) 與 Linker 的 OutputFile 屬性值 (C:\Users\nini\Desktop\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\bin\Debug\SelfMotivatedSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+LINK : fatal error LNK1104: 無法開啟檔案 'irvine32.lib'

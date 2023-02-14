@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\nini\Desktop\Lab10_110550146\Lab10_110550146\main.cpp(7,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\nini\Desktop\Lab10_110550146\Lab10_110550146\main.cpp(20,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\nini\Desktop\Lab10_110550146\Lab10_110550146\main.cpp(31,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\nini\Desktop\Lab10_110550146\Lab10_110550146\main.cpp(35,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\nini\Desktop\Lab10_110550146\Lab10_110550146\main.cpp(53,23): warning C4018: '<': signed/unsigned 不相符
+C:\Users\nini\Desktop\Lab10_110550146\Lab10_110550146\main.cpp(57,23): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 196 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  Lab10_110550146.vcxproj -> C:\Users\nini\Desktop\Lab10_110550146\Release\Lab10_110550146.exe
