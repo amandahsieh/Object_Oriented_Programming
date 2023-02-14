@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2001: 無法解析的外部符號 "public: __cdecl Integer::Integer(void)" (??0Integer@@QEAA@XZ)
+C:\Users\nini\Desktop\lab05試試看\x64\Release\lab05試試看.exe : fatal error LNK1120: 1 個無法解析的外部符號

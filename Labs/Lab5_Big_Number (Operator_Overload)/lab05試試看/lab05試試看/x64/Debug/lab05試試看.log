@@ -1,0 +1,5 @@
+﻿  Integer.cpp
+  main.cpp
+  正在產生程式碼...
+main.obj : error LNK2019: 在函式 "public: __cdecl Integer::Integer(void)" (??0Integer@@QEAA@XZ)"void __cdecl readFile(char const *)" (?readFile@@YAXPEBD@Z) 中參考了無法解析的外部符號
+C:\Users\nini\Desktop\lab05試試看\x64\Debug\lab05試試看.exe : fatal error LNK1120: 1 個無法解析的外部符號
