@@ -1,0 +1,176 @@
+﻿Build started 2021/3/1 上午 11:45:18.
+     1>Project "D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\asm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\myFirstSystem.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\Irvine /I.\inc /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 00_StudentWork\00_SimpleInteractiveSystem\mySystem_CubicFunction.cpp 00_StudentWork\00_SimpleInteractiveSystem\mySystem_SineCosineFunction.cpp basic_app.cpp main.cpp 00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp 00_StudentWork\00_SimpleInteractiveSystem\mySystem_StudentRecordManager.cpp 00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp 00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp 00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp openGLbasic\camera.cpp openGLbasic\opengl_stuff.cpp painter\painter_draw.cpp openGLapp\openGLapp.cpp openGLapp\openGLapp.events.cpp openGLapp\openGLapp_draw.cpp openGLapp\openGLapp_init.cpp openGLapp\openGLapp_update.cpp primitives\basic_tools.cpp primitives\grid2D.cpp primitives\provider.cpp primitives\vector3d.cpp fileReader\fileReader.cpp imageReader\imageReader.cpp boardGame\BG_grid2D.cpp boardGame\boardGame.cpp painter\painter.cpp boardGameApp\boardGameApp.cpp freeCanvas2D\freeCanvas2D.cpp spatial_partition_structures\lattice_manager.cpp painting_system\paintingSystem.cpp painting_system\paintingSystemApp.cpp painting_system\paintingSystemApp_draw.cpp painting_system\paintingSystemApp_HandleEvents.cpp textureManager\texture.cpp textureManager\textureManager.cpp textureManager\textureManager_read.cpp
+         mySystem_CubicFunction.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         mySystem_SineCosineFunction.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         basic_app.cpp
+         main.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         mySystem_MonteCarlo.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(105): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(102): warning C4101: 'y' : unreferenced local variable
+         mySystem_StudentRecordManager.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         mySystemApp.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         mySystemApp_draw.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(78): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(87): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(115): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(115): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(115): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(124): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(134): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(134): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(134): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(143): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(144): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(150): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(150): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(156): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(157): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(172): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(172): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(172): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(174): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(180): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         mySystemApp_HandleEvents.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         camera.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         opengl_stuff.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         painter_draw.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         openGLapp.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         openGLapp.events.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         openGLapp_draw.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         openGLapp_init.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         openGLapp_update.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         basic_tools.cpp
+         grid2D.cpp
+         provider.cpp
+         Compiling...
+         vector3d.cpp
+         fileReader.cpp
+         imageReader.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         BG_grid2D.cpp
+         boardGame.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         painter.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         boardGameApp.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         freeCanvas2D.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         lattice_manager.cpp
+         paintingSystem.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         paintingSystemApp.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         paintingSystemApp_draw.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         paintingSystemApp_HandleEvents.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         texture.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         textureManager.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+         textureManager_read.cpp
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\inc\GL/gl.h : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\Release\myFirstSystem.exe) does not match the Linker's OutputFile property value (D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\bin\Release\enjoy_programming.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(myFirstSystem) does not match the Linker's OutputFile property value (enjoy_programming). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\bin\Release\enjoy_programming.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:.\Irvine /LIBPATH:.\lib /LIBPATH:.\lib\IL freeglut.lib opengl32.lib glew32.lib glew32s.lib ILUT.lib devIL.lib ILU.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\myFirstSystem.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\Release\myFirstSystem.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\Release\myFirstSystem.lib" /MACHINE:X86 Release\mySystem_CubicFunction.obj
+         Release\mySystem_SineCosineFunction.obj
+         Release\basic_app.obj
+         Release\main.obj
+         Release\mySystem_MonteCarlo.obj
+         Release\mySystem_StudentRecordManager.obj
+         Release\mySystemApp.obj
+         Release\mySystemApp_draw.obj
+         Release\mySystemApp_HandleEvents.obj
+         Release\camera.obj
+         Release\opengl_stuff.obj
+         Release\painter_draw.obj
+         Release\openGLapp.obj
+         Release\openGLapp.events.obj
+         Release\openGLapp_draw.obj
+         Release\openGLapp_init.obj
+         Release\openGLapp_update.obj
+         Release\basic_tools.obj
+         Release\grid2D.obj
+         Release\provider.obj
+         Release\vector3d.obj
+         Release\fileReader.obj
+         Release\imageReader.obj
+         Release\BG_grid2D.obj
+         Release\boardGame.obj
+         Release\painter.obj
+         Release\boardGameApp.obj
+         Release\freeCanvas2D.obj
+         Release\lattice_manager.obj
+         Release\paintingSystem.obj
+         Release\paintingSystemApp.obj
+         Release\paintingSystemApp_draw.obj
+         Release\paintingSystemApp_HandleEvents.obj
+         Release\texture.obj
+         Release\textureManager.obj
+         Release\textureManager_read.obj
+         Generating code
+         Finished generating code
+         asm.vcxproj -> D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\Release\myFirstSystem.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\bin\Release\enjoy_programming.exe;#1" /manifest Release\myFirstSystem.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\myFirstSystem.unsuccessfulbuild".
+         Touching "Release\myFirstSystem.lastbuildstate".
+     1>Done Building Project "D:\user\wingo\teaching\202102\OOP_202102\assignments\OOP_HW01_NET2010_202102_Template\asm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.67

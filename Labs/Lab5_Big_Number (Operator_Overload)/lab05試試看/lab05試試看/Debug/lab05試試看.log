@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: 在函式 "public: __thiscall Integer::Integer(void)" (??0Integer@@QAE@XZ)"void __cdecl readFile(char const *)" (?readFile@@YAXPBD@Z) 中參考了無法解析的外部符號
+C:\Users\nini\Desktop\lab05試試看\Debug\lab05試試看.exe : fatal error LNK1120: 1 個無法解析的外部符號
